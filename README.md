@@ -6,6 +6,7 @@ example：
 
 import (
     "github.com/damonchen/cachefx"
+    "go.uber.org/fx"
 )
 
 // using memory cache
